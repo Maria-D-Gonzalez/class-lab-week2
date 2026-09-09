@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Add10Example",
             "request": "launch",
+            "mainClass": "com.example.Add10Example",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Add10Example",
+            "request": "launch",
             "mainClass": "Add10Example",
             "projectName": "demo"
         },
